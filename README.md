@@ -2,7 +2,7 @@
 
 As I have continued my learning process, the time to revisit my portfolio has come. Given the scope of knowledge gained and experience added, I decided that starting fresh and pasting in parts that work well for me is the best option. My general framework can be revamped and better support both existing  pieces and those I add. 
 
-### Here is the [Deployed Page]()
+### Here is the (Deployed Page)[https://maggiemaywilder.github.io/updatedProfile/]
 
 ## Screenshots
 
